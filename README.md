@@ -43,6 +43,14 @@ The report includes:
 
 ---
 
+## 📸 Screenshots
+
+| Line Chart | Matrix View |
+|------------|--------------|
+| ![Line Chart](./screenshots/dashboard_overview.png) | ![Matrix](./screenshots/matrix_view.png) |
+
+---
+
 ## 🌐 Live Dashboard
 
 📍 **Power BI Report Link**: [👉 Click to View Live Report](<Your Power BI Service Link Here>)
