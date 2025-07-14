@@ -47,7 +47,6 @@ The report includes:
 
 📍 **Power BI Report Link**: [👉 Click to View Live Report](<Your Power BI Service Link Here>)
 
-*(Make sure to enable public access in Power BI Service and paste the real link)*
 
 ---
 
