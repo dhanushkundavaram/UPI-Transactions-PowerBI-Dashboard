@@ -65,9 +65,3 @@ The report includes:
 - Power Query
 - Power BI Service
 
----
-
-## 🙋‍♂️ Author
-
-**Dhanush K**  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)
