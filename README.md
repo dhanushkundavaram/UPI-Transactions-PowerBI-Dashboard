@@ -53,7 +53,7 @@ The report includes:
 
 ## 🌐 Live Dashboard
 
-📍 **Power BI Report Link**: [👉 Click to View Live Report](<Your Power BI Service Link Here>)
+📍 **Power BI Report Link**: [👉 Click to View Live Report](<https://github.com/dhanushkundavaram/UPI-Transactions-PowerBI-Dashboard/blob/main/UPI%20Transactions.pbit>)
 
 
 ---
