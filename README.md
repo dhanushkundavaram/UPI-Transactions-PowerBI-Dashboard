@@ -47,7 +47,7 @@ The report includes:
 
 | Line Chart | Matrix View |
 |------------|--------------|
-| ![Line Chart](https://github.com/dhanushkundavaram/UPI-Transactions-PowerBI-Dashboard/blob/main/UPI%20line%20chart%20Transactions.png) | ![Matrix](./screenshots/matrix_view.png) |
+| ![Line Chart](https://github.com/dhanushkundavaram/UPI-Transactions-PowerBI-Dashboard/blob/main/UPI%20line%20chart%20Transactions.png) | ![Matrix](https://github.com/dhanushkundavaram/UPI-Transactions-PowerBI-Dashboard/blob/main/UPI%20Matrix%20View.png) |
 
 ---
 
